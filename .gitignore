@@ -10,3 +10,4 @@ fioriHtmlRunner.html
 mock_preview_sapui5.html
 .*/mock_preview_sapui5.html
 /webapp/view/View1.view.xml
+/.user.project.json
