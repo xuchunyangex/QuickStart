@@ -1,4 +1,5 @@
 {
+<<<<<<< Upstream, based on b8c4a1d5b35c0486d023cf0527064a5211779665
 	"run": [{
 		"filePath": "/webapp/index.html",
 		"previewMode": 0,
@@ -16,4 +17,26 @@
 			"displayName": "Run index.html"
 		}
 	}]
+=======
+  "run": [
+    {
+      "filePath": "/webapp/index.html",
+      "previewMode": 0,
+      "dataMode": 0,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 9335140,
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1486286776261
+      }
+    }
+  ]
+>>>>>>> 5ecbc2a Ignore and Untrack System Files
 }
