@@ -2,7 +2,7 @@
 	xmlns="sap.m">
 	<App>
 		<pages>
-			<Page title="Your Quick Start application is ready123!">
+			<Page title="Your Quick Start application is ready122!">
 				<content>
 					<VBox direction="Column" id="vbox0" justifyContent="Center" width="100%">
 						<items>
