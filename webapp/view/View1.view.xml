@@ -2,11 +2,7 @@
 	xmlns="sap.m">
 	<App>
 		<pages>
-<<<<<<< Upstream, based on b8c4a1d5b35c0486d023cf0527064a5211779665
-			<Page title="Your Quick Start application is ready!">
-=======
-			<Page title="Your Quick Start application is ready12!">
->>>>>>> 5ecbc2a Ignore and Untrack System Files
+			<Page title="Your Quick Start application is ready123!">
 				<content>
 					<VBox direction="Column" id="vbox0" justifyContent="Center" width="100%">
 						<items>
